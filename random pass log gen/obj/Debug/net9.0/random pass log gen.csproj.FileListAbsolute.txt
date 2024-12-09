@@ -1,0 +1,14 @@
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\bin\Debug\net9.0\random pass log gen.exe
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\bin\Debug\net9.0\random pass log gen.deps.json
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\bin\Debug\net9.0\random pass log gen.runtimeconfig.json
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\bin\Debug\net9.0\random pass log gen.dll
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\bin\Debug\net9.0\random pass log gen.pdb
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.AssemblyInfoInputs.cache
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.AssemblyInfo.cs
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.csproj.CoreCompileInputs.cache
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.dll
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\refint\random pass log gen.dll
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.pdb
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.genruntimeconfig.cache
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\ref\random pass log gen.dll
