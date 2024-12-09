@@ -12,3 +12,4 @@ C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net
 C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.pdb
 C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.genruntimeconfig.cache
 C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\ref\random pass log gen.dll
+C:\Users\lvd\RiderProjects\random pass log gen\random pass log gen\obj\Debug\net9.0\random pass log gen.sourcelink.json
